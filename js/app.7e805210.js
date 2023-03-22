@@ -49,7 +49,7 @@
                     },
                     [
                       t("option", { attrs: { value: "" } }, [
-                        e._v("Selecione"),
+                        e._v("Musica"),
                       ]),
                       e._l(e.bandas, function (n) {
                         return t(
@@ -89,7 +89,7 @@
                     },
                     [
                       t("option", { attrs: { value: "" } }, [
-                        e._v("Selecione"),
+                        e._v("Banda"),
                       ]),
                       e._l(e.filteredItems, function (n) {
                         return t(
